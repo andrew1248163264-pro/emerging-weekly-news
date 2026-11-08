@@ -6,8 +6,8 @@
 
 1. 把这个文件夹放到自己电脑的 `~/.cursor/skills/emerging-weekly-news/`。
 2. 按同花顺官方说明单独安装 `ifind-finance-data`，把**自己的** iFinD MCP 密钥写进该 skill 的 `config/mcp_config.json`。不要把密钥放进本仓库。
-3. 周报文件夹里先放好上一周的自动更新版 `.xlsm`，复制后把文件名改成这周的周日日期。本仓库没有 Excel 或 PPT 模板。
-4. 在这个文件夹里说：「按新兴产业周报查新闻的 skill，做这 5 个表。」Agent 只改这份已有底稿，不要新建工作簿。
+3. `template/` 里有原版自动更新版 Excel 和完整版 PPT。新的一周把它们复制到周报文件夹，文件名改成这周的周日日期。不要从零新建。
+4. 在这个文件夹里说：「按新兴产业周报查新闻的 skill，做这 5 个表。」下周展望做到 PPT 第 6 页，并在 Excel 里写好来源和截图。把这一页贴进 Excel 由人自己做。
 
 ## 这个 skill 做什么
 
